@@ -9,5 +9,5 @@ Second, you can choose your desire cars characteristic in term of : Cylinders, D
 The result contains filters selected cars will show in a table on the main content with using the mtcars dataset from [R].
 You can sort the table according to the variable you want by clicking the arrows at the top of the table.
 
-Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/b33lie/shiny_app_mtcars
+Source code for ui.R and server.R files are available on the GitHub repo:https://github.com/dimdhar/Data-Products
 
